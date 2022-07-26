@@ -9,5 +9,18 @@
 }
 
 .display-panel{
-  text-shadow: ;
+  text-shadow: 0px 0px 2px lime;
+  font-family: digital7;
+}
+
+.snack{
+  height: 30vh;
+  max-width: fit-content;
+  background-size: cover;
+  background-position: center;
+}
+
+@font-face {
+  font-family: digital7;
+  src: url(/assets/style/digital-7/digital-7\ \(mono\).ttf);
 }
