@@ -1,1 +1,13 @@
 /* BASIC STYLES HERE */
+.card{
+  background-color: silver;
+  height: 50vh
+}
+
+.input-panel{
+  height: 100vh
+}
+
+.display-panel{
+  text-shadow: ;
+}
